@@ -1,4 +1,4 @@
-![Banner](../kikopocampo/public/hello.png)
+![Banner](/public/hello.png)
 
 <div style="text-align:center">
 <p >Let's connect!</p>
