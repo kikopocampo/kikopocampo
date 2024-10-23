@@ -16,7 +16,6 @@ I am a full-stack developer based in Edmonton | AB, Canada.
 - 🇵🇭 I grew up in the Philippines.
 - 🧩 I love puzzles and riddles.
 - 🥾 I usually go out hiking during the summer.
-- 🧑‍💻 On my free time, I usually read news about tech and solve problems on Code Wars.
 
 <hr/>
 <div style="text-align:center">
