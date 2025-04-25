@@ -10,12 +10,7 @@
 
 About me:
 
-I am a full-stack developer based in Edmonton | AB, Canada.
-
-- 👨‍🍳 I used to work in the kitchen and now I code.
-- 🇵🇭 I grew up in the Philippines.
-- 🧩 I love puzzles and riddles.
-- 🥾 I usually go out hiking during the summer.
+Full-stack developer based in Edmonton | AB, Canada.
 
 <hr/>
 <div style="text-align:center">
